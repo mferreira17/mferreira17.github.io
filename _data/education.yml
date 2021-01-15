@@ -1,9 +1,12 @@
 # Education Template
 - layout: left
   name: Instituto Federal do Pará (IFPA) 
-  dates: Date Range (eg. 2007 - 2011)
+  dates: 2007 - 2011
   qualification: Tecnólogo em Análise e Desenvolvimento de Sistemas de Informação
   quote: >
     É o profissional de nível superior que analisa, projeta, documenta, especifica, testa, implementa e cuida da manutenção de sistemas computacionais e software.
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Na faculdade foi onde abracei de vez a informática como meio de vida. Já estava rumando meus estudos para a programação de computadores mas a faculdade 
+    me deu o norte que eu precisava. Foquei minha carreira em aprender o máximo que podia e extrair o principal de cada novo desafio que me eram propostos. 
+    Meu maior enfoque nessa época foi para o lado da programação e onde objetivei minha vida profissional. A partir disto, me tornei desenvolvedor de sistemas. 
+    Nesta época também, tive experiencias com desenvolvimento gráfico e webdesign.

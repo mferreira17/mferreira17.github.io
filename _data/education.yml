@@ -1,9 +1,9 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Instituto Federal do Pará (IFPA) 
+  dates: Date Range (eg. 2007 - 2011)
+  qualification: Tecnólogo em Análise e Desenvolvimento de Sistemas de Informação
   quote: >
-    Short institution or course description (optional)
+    É o profissional de nível superior que analisa, projeta, documenta, especifica, testa, implementa e cuida da manutenção de sistemas computacionais e software.
   description: | # this will include new lines to allow paragraphs
     Description of qualification

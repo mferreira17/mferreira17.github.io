@@ -6,7 +6,7 @@
     Sistema para controle de arrecadações e doações
   description: | # this will include new lines to allow paragraphs
     Software web destinado ao controle/recebimento de doações do Centro Alternativo de Cultura de Belém do Pará. Desenvolvido durante o curso de pós-graduação em arquitetura de software, foi premiado como melhor sistema pela banca avaliadora da academia.
-    # Project template
+# Project template
 - layout: top-middle
   name: Futuro Brilhante
   github: https://github.com/mferreira17/futuro-brilhante

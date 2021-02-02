@@ -8,5 +8,19 @@
   description: | # this will include new lines to allow paragraphs
     Na faculdade foi onde abracei de vez a informática como meio de vida. Já estava rumando meus estudos para a programação de computadores mas a faculdade 
     me deu o norte que eu precisava. Foquei minha carreira em aprender o máximo que podia e extrair o principal de cada novo desafio que me eram propostos. 
-    Meu maior enfoque nessa época foi para o lado da programação e onde objetivei minha vida profissional. A partir disto, me tornei desenvolvedor de sistemas. 
+    Meu maior enfoque nessa época foi a programação e onde objetivei e segui com minha vida profissional. A partir disto, me tornei desenvolvedor de sistemas. 
     Nesta época também, tive experiencias com desenvolvimento gráfico e webdesign.
+- layout: left
+  name: Faculdade Estácio de Belém (IESAM) 
+  dates: 2012 - 2013
+  qualification: Pós-graduação em Engenharia de Software
+  description: | # this will include new lines to allow paragraphs
+    Essa especialização contribuiu me dando maior embasamento e conhecimento sobre a engenharia de software em específico. Pude me aprofundar 
+    nessa área através deste curso
+- layout: left
+  name: Universidade Federal do Pará (UFPA) 
+  dates: 2019 - 2020
+  qualification: Pós-graduação em Arquitetura de Software
+  description: | # this will include new lines to allow paragraphs
+    Nesse curso, pude me aprofundar enquanto a parte arquitetural de sistemas. Pensar e elaborar as bases de uma solução informatizada que possa servir para resolver
+    um determinado problema ou que sirva de apoio para outras soluções é foco deste curso. 

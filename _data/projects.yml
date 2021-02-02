@@ -1,7 +1,7 @@
 # Project template
 - layout: top-middle
   name: Donazione
-  github: https://github.com/mferreira17/proj-donazione
+  github: mferreira17/proj-donazione
   quote: >
     Sistema para controle de arrecadações e doações
   description: | # this will include new lines to allow paragraphs
@@ -9,13 +9,13 @@
 # Project template
 - layout: top-middle
   name: Futuro Brilhante
-  github: https://github.com/mferreira17/futuro-brilhante
+  github: mferreira17/futuro-brilhante
   quote: >
     Sistema para controle de horas e atividades dos voluntários do projeto Futuro Brilhante
   description: | # this will include new lines to allow paragraphs
     Software web/mobile voltado ao controle de horas de trabalho dos voluntários do projeto social Futuro Brilhante. Também é responsável pela emissão dos relatórios gerenciais do projeto.
 - layout: top-middle
   name: Gesthor
-  github: https://github.com/mferreira17/gesthor
+  github: mferreira17/gesthor
   description: | # this will include new lines to allow paragraphs
     Software web voltado a gestão de contratos e controle de ocorrências.

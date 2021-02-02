@@ -1,10 +1,39 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Banco da Amazônia S/A
+  job_title: Analista de Sistemas
+  dates: 08/2013 até o momento presente
   quote: >
-   Short description of the company (optional)
+   Instituição Financeira
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Atuo no suporte aos sistemas de crédito existentes na empresa. Neste cargo, proponho e implemento melhorias
+tanto a nível de código quanto em bases de dados relacionais. Também participo do processo de homologação de
+sistemas novos e funcionalidades. Sou responsável pelo repositório de fontes da coordenação onde trabalho e
+realizo a adequação destes ao processo de integração contínua da instituição. Também presto suporte imediato a
+usuários e realizo manutenção do software legado.
+- layout: left
+  company: Cobra Tecnologia S/A
+  job_title: Analista/Desenvolvedor de Software
+  dates: 06/2012 a 08/2013
+  quote: >
+   Empresa voltada ao Desenvolvimento de Software Para Bancos
+  description: | # this will include new lines to allow paragraphs
+    Colaborador no desenvolvimento de sistemas web, com Java e JSF, voltado à contratação e aplicação de crédito. Também participei do desenvolvimento de sistemas voltados à gestão orçamentária.
+- layout: left
+  company: Jambu Tecnologia
+  job_title: Analista/Desenvolvedor de Software
+  dates: 01/2012 a 06/2012
+  quote: >
+    Empresa voltada ao Desenvolvimento de Software
+  description: | # this will include new lines to allow paragraphs
+    Atuou desenvolvendo sistemas , nas linguagens Java e Groovy, para audição e medição de empresas atuantes no mercado de compra e venda de energia. Neste projeto, destaco a experiência com ferramentas de desenvolvimento rápido, Grails em específico, além de utilizar metodologias ágeis para o gerenciamento do projeto (Scrum).
+- layout: left
+  company: Execute TI
+  job_title: Analista/Desenvolvedor de Software
+  dates: 01/2011 a 12/2011
+  quote: >
+    Empresa voltada ao Desenvolvimento de Software
+  description: | # this will include new lines to allow paragraphs
+    Colaborador no desenvolvimento de aplicação web, com Java e Jsf, para o parque de ciência e tecnologia da Universidade Federal do Pará.
+
+    

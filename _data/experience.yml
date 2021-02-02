@@ -6,11 +6,7 @@
   quote: >
    Instituição Financeira
   description: | # this will include new lines to allow paragraphs
-    Atuo no suporte aos sistemas de crédito existentes na empresa. Neste cargo, proponho e implemento melhorias
-tanto a nível de código quanto em bases de dados relacionais. Também participo do processo de homologação de
-sistemas novos e funcionalidades. Sou responsável pelo repositório de fontes da coordenação onde trabalho e
-realizo a adequação destes ao processo de integração contínua da instituição. Também presto suporte imediato a
-usuários e realizo manutenção do software legado.
+    Atuo no suporte aos sistemas de crédito existentes na empresa. Neste cargo, proponho e implemento melhorias tanto a nível de código quanto em bases de dados relacionais. Também participo do processo de homologação de sistemas novos e funcionalidades. Sou responsável pelo repositório de fontes da coordenação onde trabalho e realizo a adequação destes ao processo de integração contínua da instituição. Também presto suporte imediato a usuários e realizo manutenção do software legado.
 - layout: left
   company: Cobra Tecnologia S/A
   job_title: Analista/Desenvolvedor de Software
